@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738903247162",
+    "firebase_url": "https://pushnotification-4c166.firebaseio.com",
+    "project_id": "pushnotification-4c166",
+    "storage_bucket": "pushnotification-4c166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738903247162:android:436fa7ac299fb3c9856803",
+        "android_client_info": {
+          "package_name": "com.childrenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738903247162-de5go8tna3713revrj93t9hdkg91ik9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7q8Uu4lmp2H1h3Z-knaFG90Ld2m6ASo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738903247162-de5go8tna3713revrj93t9hdkg91ik9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
